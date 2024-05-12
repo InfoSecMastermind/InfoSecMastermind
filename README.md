@@ -6,9 +6,8 @@
 
 - 👯 I’m looking to collaborate on projects related to cloud security, DevOps, and automation.
 
-<div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfoSecMastermind&show_icons=true&locale=en&layout=compact&theme=dark" alt="InfoSecMastermind" />
-   <img src="https://github-readme-stats.vercel.app/api?username=InfoSecMastermind&show_icons=true&locale=en&theme=dark" alt="InfoSecMastermind" style="margin-left: 30px;" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=InfoSecMastermind&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="InfoSecMastermind" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=InfoSecMastermind&show_icons=true&locale=en&theme=tokyonight" alt="InfoSecMastermind" /></p>
 
 
