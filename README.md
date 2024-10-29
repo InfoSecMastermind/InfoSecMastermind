@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ali</h1>
 <h3 align="center">Cloud Security Engineer | Aspiring DevSecOps Practitioner</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=InfoSecMastermind&label=Profile%20views&color=0e75b6&style=flat" alt="InfoSecMastermind" /> </p>
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=InfoSecMastermind" alt="Profile Views"/>
+</div>
 - 🌱 I’m currently learning **DevOps**, with major interest in **DevSecOps**.
 
 - 👯 I’m looking to collaborate on projects related to cloud security, DevOps, and automation.
