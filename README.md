@@ -8,7 +8,7 @@
 🌟 Focused on building secure and scalable cloud solutions. Skilled in **AWS**, **Azure**, and **GCP**, with hands-on expertise in tools like **Splunk**, **Wazuh**, **Suricata**, and **Wireshark**. Passionate about cloud security, DevOps automation, and open-source contributions.  
 
 ## 🚀 Skills  
-- **Cloud Platforms:** AWS | Azure | GCP  
+- **Cloud Platforms:** GCP | Azure | AWS  
 - **Security Tools:** Splunk | Wazuh | Suricata  
 - **Networking:** Linux | Threat Analysis | Vulnerability Assessment  
 - **Development:** Docker | Git  
