@@ -11,7 +11,7 @@
 - **Cloud Platforms:** GCP | Azure | AWS  
 - **Security Tools:** Splunk | Wazuh | Suricata  
 - **Networking:** Linux | Threat Analysis | Vulnerability Assessment  
-- **Development:** Docker | Git  
+- **Development:** Docker | Git | Kubernetes
 
 📌 Explore my repositories for projects in **server management**, **DevOps**, and **secure networking**. Let’s build something impactful together!
 
