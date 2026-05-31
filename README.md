@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Ali Nafees
+# Muhammad Ali
 ### SDET · Cloud & DevOps Engineer · Security Testing · AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadalics-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/muhammadalics)
