@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=200&section=header&text=Muhammad%20Ali&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SDET%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Technical%20Founder&descAlignY=58&descSize=16&descColor=FFCCCC" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&multiline=false&width=700&lines=Breaking+things+professionally+since+2022;Audio+AI+%7C+80-90%25+accuracy+across+3+languages;Top+500+nationally+%E2%80%94+NSCT+Pakistan;Building+the+DevSecOps+pipeline+nobody+asked+for;Open+to+Senior+SDET+%26+DevSecOps+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&multiline=false&width=700&lines=Breaking+things+professionally+since+2019;Audio+AI+%7C+80-90%25+accuracy+across+3+languages;Top+500+nationally+%E2%80%94+NSCT+Pakistan;Building+the+DevSecOps+pipeline+nobody+asked+for;Open+to+Senior+SDET+%26+DevSecOps+roles" alt="Typing SVG" />
 
 <br/>
 
