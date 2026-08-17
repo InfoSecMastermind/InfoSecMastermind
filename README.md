@@ -9,8 +9,8 @@
 <br/>
 
 <!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=InfoSecMastermind&color=C0392B&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/InfoSecMastermind?color=C0392B&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/InfoSecMastermind)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadaliai&color=C0392B&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/muhammadaliai?color=C0392B&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/muhammadaliai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammadalics)
 [![Website](https://img.shields.io/badge/Website-alinafees.com-1A1A2E?style=flat-square&logo=google-chrome&logoColor=white)](https://alinafees.com)
 
@@ -138,21 +138,21 @@ certifications:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=InfoSecMastermind&show_icons=true&theme=transparent&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=DDDDDD&bg_color=00000000&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadaliai&show_icons=true&theme=transparent&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=DDDDDD&bg_color=00000000&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoSecMastermind&layout=donut&theme=transparent&hide_border=true&title_color=C0392B&text_color=DDDDDD&bg_color=00000000&count_private=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=InfoSecMastermind&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&sideLabels=DDDDDD&currStreakNum=FFFFFF&sideNums=DDDDDD&dates=888888"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadaliai&layout=donut&theme=transparent&hide_border=true&title_color=C0392B&text_color=DDDDDD&bg_color=00000000&count_private=true"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InfoSecMastermind&bg_color=00000000&color=DDDDDD&line=C0392B&point=FFFFFF&area=true&area_color=C0392B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com?user=muhammadaliai&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&sideLabels=DDDDDD&currStreakNum=FFFFFF&sideNums=DDDDDD&dates=888888"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadaliai&bg_color=00000000&color=DDDDDD&line=C0392B&point=FFFFFF&area=true&area_color=C0392B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
